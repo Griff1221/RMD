@@ -1,7 +1,7 @@
 {
   "name": "rADAr Stake Pool",
+  "poolExtendedMetaUrl": "https://raw.githubusercontent.com/Griff1221/E.X/master/E.X"
   "description": "Searching 24/7/365 for the next block!",
   "ticker": "RADAR",
-  "homepage": "https://radarstakepool.com"
-  "poolExtendedMetaUrl": "https://raw.githubusercontent.com/Griff1221/E.X/master/E.X"
+  "homepage": "https://radarstakepool.com"  
 }
